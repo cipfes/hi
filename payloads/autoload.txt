@@ -1,0 +1,12 @@
+# 1. kstuff
+kstuff.elf
+
+!4000
+
+# 2. Abrir Payload Manager
+pldmgr_v0.5.2.elf
+
+!4000
+
+# 3. Abrir webkit-autoloader-installer
+webkit-autoloader-installer_v0.5.0.elf
